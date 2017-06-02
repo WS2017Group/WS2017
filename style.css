@@ -4,6 +4,7 @@ html {
     }
 
 body {
+	background:assets/background/grass.png;
 	background-color: white;
 	color: black;
 	font-size: 1.5rem;
@@ -19,6 +20,14 @@ h1 {
 	font-style: italic;
 	text-align: center;
     }
+
+h2 {
+	font-family: 'Raleway', sans-serif;
+	font-size: 2rem;
+	font-weight: 200;
+	font-style: italic;
+	text-align: center;
+   }
 
 #main {
         min-height: 800px;
